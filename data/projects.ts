@@ -133,7 +133,7 @@ export const projects: Project[] = [
   {
     id: 6,
     title: "Evento - Plateforme de Gestion et Réservation d'Événements",
-    description: "Une plateforme permettant aux utilisateurs de réserver des places pour des événements, aux organisateurs de gérer leurs événements et aux administrateurs de contrôler et gérer les utilisateurs et événements.",
+    description: "Une plateforme permettant aux utilisateurs de réserver des places pour des événements, aux organisa",
     icon: FaCalendarAlt, // Icône pour la gestion d'événements
     technologies: [
       "Laravel",
