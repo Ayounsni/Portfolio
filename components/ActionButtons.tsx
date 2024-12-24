@@ -30,7 +30,7 @@ const ActionButtons = () => (
         whileTap={{ scale: 0.95 }}
         className="bg-secondary text-secondary-foreground px-6 py-3 rounded-full font-semibold transition duration-300 flex items-center"
       >
-        <FaFileAlt className="mr-2" /> Curriculum Vitae
+        <FaFileAlt className="mr-2" /> CV
       </motion.button>
     </Link>
   </motion.div>

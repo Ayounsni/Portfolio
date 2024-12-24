@@ -21,12 +21,12 @@ const navItems = [
     icon: <FaHome />,
   },
   {
-    name: "À propos",
+    name: "Propos",
     link: "#about",
     icon: <FaUser />,
   },
   {
-    name: "Projets",
+    name: "Project",
     link: "#projects",
     icon: <FaCode />,
   },
