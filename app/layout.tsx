@@ -16,22 +16,22 @@ export const metadata = {
 
 const navItems = [
   {
-    name: "Accueil",
+    name: "Home",
     link: "#home",
     icon: <FaHome />,
   },
   {
-    name: "Propos",
+    name: "About",
     link: "#about",
     icon: <FaUser />,
   },
   {
-    name: "Project",
+    name: "Projects",
     link: "#projects",
     icon: <FaCode />,
   },
   {
-    name: "Travail",
+    name: "work",
     link: "#work",
     icon: <FaBriefcase />,
   },
