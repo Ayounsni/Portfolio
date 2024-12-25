@@ -21,7 +21,7 @@ const ActionButtons = () => (
       </motion.button>
     </Link>
     <Link 
-      href="/pdf/cv.pdf" 
+      href="/pdf/cva.pdf" 
       target="_blank" 
       rel="noopener noreferrer"
     >
